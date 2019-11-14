@@ -5,7 +5,7 @@ Conda pre-built binaries
 ------------------------
 
 The easiest way to install Cartopy is through 
-`Conda <https://conda.io/miniconda.html>`_. If conda is install, installation is as easy as::
+`Conda <https://conda.io/miniconda.html>`_. If conda is already installed, installation is as easy as::
 
     conda install -c conda-forge cartopy
 
